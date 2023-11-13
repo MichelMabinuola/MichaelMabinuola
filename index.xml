@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Mabinuola</title>
+    <link>https://michelmabinuola.github.io/MichaelMabinuola/</link>
+    <description>Recent content on Michael Mabinuola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Nov 2023 00:45:54 +0900</lastBuildDate>
+    <atom:link href="https://michelmabinuola.github.io/MichaelMabinuola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data analysis: COVID_19 EDA</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/covid19_eda/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/covid19_eda/</guid>
+      <description>COVID_19 Exploratory Data Analysis Conducting an in-depth exploration of the present global COVID-19 scenario, with a specific focus on Nigeria. The analysis involves the assessment of descriptive statistics, and the comprehensive report includes a significance test to discern the trends of COVID-19 in Nigeria. The code has been implemented in both Python and R.
+Tools Python (BeautifulSoup, Pandas, Numpy, matplotlib, seaborn) R (rvest,dplyr,tidyverse,sf,sp,raster,ggmap,RColorBrewer) </description>
+    </item>
+    <item>
+      <title>Data analysis: SQL Project</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/sql_data/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/sql_data/</guid>
+      <description>Supermarket sales analysis Examining sales data from both a supermarket dataset and Udemy with the aim of gaining a comprehensive understanding of sales. Key inquiries involve identifying the preferred payment methods for each branch, creating a pivot table, and estimating the total monthly customer visits to each store.
+Tools Microsoft Azure SQL Docker </description>
+    </item>
+    <item>
+      <title>Data Engineering: S3 &gt;&gt; AIRFLOW</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/airflow/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/airflow/</guid>
+      <description>Automated S3 backup data The Python code does two main things: it sets up a scheduled task to upload data to Amazon S3 every day using Apache Airflow (s3_upload), and it creates a tool (LoggerManager) to help keep track of what&amp;rsquo;s happening in the code by logging important information. The task also sends alerts through Slack, and the logging tool makes it easier to understand and fix any issues that might come up.</description>
+    </item>
+    <item>
+      <title>Data Engineering: Survey webapplication</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/streamlit/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/streamlit/</guid>
+      <description>Streamlit Web application Explore the innovative survey app designed to connect you with a personalized metaverse doctor. Simply answer a few questions, and click the link provided to discover the expert tailored to your needs. Step into the future of healthcare with our interactive survey experience.
+Tools python streamlit </description>
+    </item>
+    <item>
+      <title>Deep learning: Credit Card Fraud</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/creditcard/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/creditcard/</guid>
+      <description>Credit Card fraud Detection The overall goal of this project is to distinguish between fraud and valid transactions in credit card transactions. An Artificial Neural network alrgorithm was developed with an accuracy of 94% was established. The data contains only numerical input variables which are the result of a PCA transformation.
+Tools Python (BeautifulSoup, Pandas, Numpy, matplotlib, seaborn) Keras, TensorFlow, Scikit-Learn </description>
+    </item>
+    <item>
+      <title>Deep learning: Hand written recognition</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/deeplearning/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/deeplearning/</guid>
+      <description>MNIST Handwritten Recognition An artificial neural network algorithm that recognizes handwritten numbers was created and an accuracy of 98% was achieved. Precision, recall, f1 score was also used to validate the performance.
+Tools Python (Pandas, Numpy, matplotlib, seaborn) Keras, TensorFlow, Scikit-Learn </description>
+    </item>
+    <item>
+      <title>Machine Learning: Big Mart Prediction</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/hackaton/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/hackaton/</guid>
+      <description>Big Mart Prediction Hackerton Participated in the Analytics Vidhya Big Mart Sales Prediction Hackathon, where I developed a predictive model for forecasting sales data encompassing 1559 products distributed among ten stores across various cities. Employing the XGBRegressor, the model achieved an accuracy rate of 79%.
+Tools Python (Pandas, Numpy, matplotlib, seaborn) scikit-learn (xgboost, LinearRegression, mean_squared_error, r2_score) </description>
+    </item>
+    <item>
+      <title>Web Application: Black X cellence</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/blackxc/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/blackxc/</guid>
+      <description>Black X cellence Photography Crafted a photography design concept that originated from my passion for photography, manifesting in the creation of a personalized portfolio website. This visually captivating website showcases a sleek and responsive prototype, skillfully leveraging CSS grid system, HTML, SVG, and JavaScript. Notably, the website features immersive GSAP animations, enhancing the overall user experience. The design aesthetic embraces a striking black-and-white theme, and it&amp;rsquo;s important to note that all images were sourced from Shutterstock.</description>
+    </item>
+    <item>
+      <title>Web Application: Movie website</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/movie/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/movie/</guid>
+      <description>Movie-Tube Web application Embarked on the creation of a movie website prototype fueled by my passion for films. Specifically, I dedicated efforts to developing an engaging login page for the platform. To infuse interactivity and enhance user-friendliness, I seamlessly incorporated JavaScript, leveraging both jQuery and GSAP Animation. The visual appeal of the website was further elevated through the creation and integration of SVG images, contributing to a distinctive and immersive user interface.</description>
+    </item>
+    <item>
+      <title>Web Application: SAYN</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/sayn/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/sayn/</guid>
+      <description>Bitcoin Web application (inspired by Rron Berisha) Executed the development of a prototype for the landing page of a magazine website, focusing on augmenting user visits. Employed HTML and CSS to craft wireframes showcasing architectural details, navigation elements, and process flow. Elevated the overall responsiveness of the website through the implementation of cutting-edge HTML5 and CSS3 techniques, resulting in a highly responsive and user-friendly web experience.
+Tools JavaScript (JQUERY, GSAP) CSS Html GIT </description>
+    </item>
+    <item>
+      <title>Web Application:: Bitcoin app</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/bitcoin/</link>
+      <pubDate>Wed, 08 Nov 2023 00:45:54 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/bitcoin/</guid>
+      <description>Bitcoin Web application Crafted the landing page for a marketing website, with a primary objective of enhancing user sign-ups through the integration of a dynamic animated coin created using SVG. Leveraged the power of JavaScript, including JQUERY and GSAP, to implement captivating animations, elevating the site&amp;rsquo;s appeal to potential users and successfully driving user engagement towards the goal of sign-up conversion.
+Additionally, employed CSS flexbox techniques to ensure the website&amp;rsquo;s responsiveness across various devices, enhancing the overall user experience.</description>
+    </item>
+    <item>
+      <title>post a title</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/blog/post-title/</link>
+      <pubDate>Tue, 07 Nov 2023 20:33:55 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/blog/post-title/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/about/</link>
+      <pubDate>Tue, 07 Nov 2023 20:30:39 +0900</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/about/</guid>
+      <description>I am passionately committed to continuous learning and self-improvement, striving to excel in my endeavors and make meaningful contributions to both the company and society at large. My ultimate goal? To consistently push my boundaries, outperform my previous accomplishments each day, and deliver exceptional results.
+Skills
+$ languages = [&amp;#39;python&amp;#39;, &amp;#39;R&amp;#39;, &amp;#39;JavaScript&amp;#39;, &amp;#39;HTML&amp;#39;] $ sqlserver = [&amp;#39;MySQL&amp;#39; ] $ nosql_skills = [&amp;#39;mongoDB&amp;#39;, &amp;#39;Firestore&amp;#39;] $ aws_skills = [&amp;#39;Amazon EC2&amp;#39;, &amp;#39;Amazon Redshift&amp;#39;, &amp;#39;Amazon S3&amp;#39;, &amp;#39;AWS Lambda&amp;#39;] $ big_data_skills = [&amp;#39;Big Data&amp;#39;, &amp;#39;Signal analysis&amp;#39;, &amp;#39;IoT&amp;#39;] $ message_queue_distributed_skills = [&amp;#39;RabbitMQ&amp;#39;, &amp;#39;Celery&amp;#39;, &amp;#39;kafka&amp;#39;, &amp;#39;pyspark&amp;#39;] $ data_engineering = [&amp;#39;RestAPI&amp;#39;,&amp;#39;data modelling&amp;#39;, &amp;#39;data warehousing&amp;#39;, &amp;#39;apache airflow&amp;#39;, &amp;#39;ETL&amp;#39;] $ data_analysis_skills = [&amp;#39;A/B Test&amp;#39;,&amp;#39;Linear programming&amp;#39;,&amp;#39;Google Analytics&amp;#39;,&amp;#39;AHP&amp;#39;] $ data_visualization_skills = [&amp;#39;Tableau&amp;#39;,&amp;#39;Streamlit&amp;#39;, &amp;#39;Rshiny&amp;#39;,&amp;#39;plotly&amp;#39;] $ machine_learning_skills = [ &amp;#39;TensorFlow&amp;#39;,&amp;#39;Scikit-learn&amp;#39;, &amp;#39;plotly&amp;#39;] $ soft_skills = [&amp;#39;Analytical&amp;#39;, &amp;#39;Team work&amp;#39;, &amp;#39;Communication&amp;#39;] Work Experience</description>
+    </item>
+    <item>
+      <title>My Resume</title>
+      <link>https://michelmabinuola.github.io/MichaelMabinuola/gallery/resume/</link>
+      <pubDate>Wed, 17 May 2017 14:28:01 -0700</pubDate>
+      <guid>https://michelmabinuola.github.io/MichaelMabinuola/gallery/resume/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
